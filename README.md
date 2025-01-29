@@ -1,11 +1,5 @@
-# Attendance_Manager
-
-Here’s a well-formatted and easy-to-read version of your README steps:  
-
----
-
-# Facial Recognition Attendance System  
-
+# Attendance_Manager:
+----
 ## Setup Instructions  
 
 ### 📁 Initial Folder Setup  
